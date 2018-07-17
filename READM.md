@@ -1,4 +1,4 @@
-[Learning git](Command: git init, git status, git add [file --all]){
+[Learning git](Command: git init, git status, git add [file --all], git fetch origin, git pull){
 1. th first step has to be cd into your project and init git with : git init
 2. second check git status with: git status
 3. third add all the files you want up on github with: git add [ , --all]
